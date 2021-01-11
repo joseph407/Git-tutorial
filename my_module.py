@@ -8,4 +8,4 @@ def mul(a, b);
 	return a*b
 
 def div(a,b):
-	retirm a//b
+	return a//b 
